@@ -1,1 +1,3 @@
 hell哦，git
+import random
+randm 
